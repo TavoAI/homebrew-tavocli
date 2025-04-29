@@ -3,8 +3,8 @@ class Tavo < Formula
 
   desc "TAVO - Open Policy Agent Verification and Testing CLI tool"
   homepage "https://github.com/TavoAI/tavo-cli"
-  url "https://github.com/TavoAI/tavo-cli/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "d58f2f7e55235db97cc51b71a579c73957e47661b6152fcbe85516e1a3b58c6c"
+  url "https://github.com/TavoAI/tavo-cli/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "033bf92ca1cfab9b9fafba482e87f2af746c943cef555339ad660d31dc21f1e4"
   license "MIT"
 
   depends_on "python@3.12"
